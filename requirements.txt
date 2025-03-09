@@ -1,0 +1,14 @@
+pybit
+binance
+os
+relativedelta
+warnings
+matplotlib
+pandas
+sqalchemy
+connectorx
+datetime
+discord
+statistics
+scipy
+numpy
